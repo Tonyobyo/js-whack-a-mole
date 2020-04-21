@@ -1,0 +1,14 @@
+.grid {
+  align-content: center;
+  display: flex;
+  flex-flow: row wrap;
+  height: 618px;
+  justify-content: center;
+  width: 618px;
+}
+
+.square {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+}
